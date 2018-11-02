@@ -14,12 +14,12 @@
   },
   "legend": {
     "edgeLabel": "Donation ",
-    "colorLabel": "Null",
+    "colorLabel": "",
     "nodeLabel": "Congressperson"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "attribute 4",
+    "groupSelectorAttribute": "2017 internet privacy vote",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
