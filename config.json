@@ -13,8 +13,8 @@
     "title": "How much does the telecom industry influence congress?"
   },
   "legend": {
-    "edgeLabel": "Donation ",
-    "nodeLabel": "Congressperson, with blue meaning a 'yea' vote, red meaning a 'nea' vote, and green meaning they didn't vote at all."
+    "edgeLabel": "Contribution, weighted by amount",
+    "nodeLabel": "Congressperson, with blue meaning a 'yea' vote, red meaning a 'nea' vote, and green meaning they didn't vote at all"
   },
   "features": {
     "search": true,
