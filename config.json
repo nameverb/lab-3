@@ -9,12 +9,12 @@
   },
   "text": {
     "more": "",
-    "intro": "The three largest telecom companies in the U.S. –  Verizon, AT&T, and Comcast – pump millions of lobbying dollars into Congress every year. This visualization explores the contributions received by Senators and House Members in the 115th Congress, and how it might relate to their votes to dismantle an important internet privacy law in 2017.",
+    "intro": "The three largest telecom companies in the U.S. –  Verizon, AT&T, and Comcast – pump millions of lobbying dollars into Congress every year. This visualization explores the contributions received by Senators and House Members in the 115th Congress and its relation to their votes to dismantle an important internet privacy law in 2017.",
     "title": "How much does the telecom industry influence congress?"
   },
   "legend": {
     "edgeLabel": "Donation ",
-    "nodeLabel": "Congressperson, with red meaning a 'yea' vote, blue meaning a 'nea' vote, and green meaning they didn't vote at all."
+    "nodeLabel": "Congressperson, with blue meaning a 'yea' vote, red meaning a 'nea' vote, and green meaning they didn't vote at all."
   },
   "features": {
     "search": true,
