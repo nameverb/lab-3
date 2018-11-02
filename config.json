@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Contribution, weighted by amount",
-    "nodeLabel": "Congressperson, with blue meaning a 'yea' vote, red meaning a 'nea' vote, and green meaning they didn't vote at all"
+    "nodeLabel": "Congressperson, with blue meaning a 'yea' vote, red meaning a 'nea' vote, and green meaning they didn't vote at all. Telecom companies are in white."
   },
   "features": {
     "search": true,
