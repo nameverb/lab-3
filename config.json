@@ -8,17 +8,18 @@
     "text": "Drew Stanley"
   },
   "text": {
-    "more": "This network visualization was created using OpenRefine, Gephi, Dreamweaver, and Sigma.js. The dataset comes from Opensecrets.org.",
-    "intro": "This visualization explores the contributions received by Senators and House Members in the 115th Congress from the three largest telecom companies in the U.S.: Verizon, AT&T, and Comcast. As they pump millions of lobbying dollars into Congress every year, how those contributions relate to Congress voting to dismantle an important internet privacy law in 2017 that protected consumers from having their online history sold to advertisers by internet service providers is also explored.",
+    "more": "This network visualization was created using OpenRefine, Gephi, Dreamweaver, and Sigma.js. The dataset comes from Opensecrets.org.\n",
+    "intro": "This visualization explores the contributions received by Senators and House Members in the 115th Congress from the three largest telecom companies in the U.S.: Verizon, AT\u0026T, and Comcast. As they pump millions of lobbying dollars into Congress every year, how those contributions relate to Congress voting to dismantle an important internet privacy law in 2017 that protected consumers from having their online history sold to advertisers by internet service providers is also explored.",
     "title": "How much does the telecom industry influence congress?"
   },
   "legend": {
-    "edgeLabel": "Contribution, weighted by amount",
-    "nodeLabel": "Congressperson, with blue meaning a 'yea' vote, red meaning a 'nea' vote, and green meaning they didn't vote at all. Telecom companies are in white."
+    "edgeLabel": "Contribution, weighted by amount ",
+    "colorLabel": "",
+    "nodeLabel": "Congressperson, with blue meaning a \u0027yea\u0027 vote, red meaning a \u0027nay\u0027 vote, and green meaning they didn\u0027t vote at all. Telecom companies are in white."
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "2017 internet privacy vote",
+    "groupSelectorAttribute": false,
     "hoverBehavior": "dim"
   },
   "informationPanel": {
@@ -39,7 +40,7 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 16,
+      "maxEdgeSize": 15,
       "minEdgeSize": 0.2,
       "minNodeSize": 1,
       "maxNodeSize": 7
