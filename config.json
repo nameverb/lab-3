@@ -15,7 +15,7 @@
   "legend": {
     "edgeLabel": "Contribution, weighted by amount ",
     "colorLabel": "",
-    "nodeLabel": "Congressperson, with blue meaning a \u0027yea\u0027 vote, red meaning a \u0027nay\u0027 vote, and green meaning they didn\u0027t vote at all. Telecom companies are in white."
+    "nodeLabel": "Congressperson, with blue meaning a \u0027yea\u0027 vote, red meaning a \u0027nay\u0027 vote, and green meaning they didn\u0027t vote at all. Telecom companies are in grey."
   },
   "features": {
     "search": true,
